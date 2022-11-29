@@ -133,9 +133,8 @@ p{
 .companies-logo{
     padding: 20px 70px;
     display: flex;
-    gap: 150px;
     align-items: center;
-    /* justify-content: space-between; */
+    justify-content: space-between;
     margin-bottom: 100px;
 }
 .companies-logo img{
@@ -147,11 +146,10 @@ footer{
     background-color: rgb(243, 243, 243);
 }
 .last-div{
-    padding: 20px 40px;
+    padding: 20px 70px;
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
-    gap: 530px;
+    justify-content: space-between;
 }
 .link-img{
     flex-direction: row;
